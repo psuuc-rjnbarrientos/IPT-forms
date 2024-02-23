@@ -1,0 +1,13 @@
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\bin\Debug\LabWorkForms.exe.config
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\bin\Debug\LabWorkForms.exe
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\bin\Debug\LabWorkForms.pdb
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\obj\Debug\LabWorkForms.csproj.AssemblyReference.cache
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\obj\Debug\LabWorkForms.Form1.resources
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\obj\Debug\LabWorkForms.Form2.resources
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\obj\Debug\LabWorkForms.Properties.Resources.resources
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\obj\Debug\LabWorkForms.csproj.GenerateResource.cache
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\obj\Debug\LabWorkForms.csproj.CoreCompileInputs.cache
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\obj\Debug\LabWorkForms.exe
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\obj\Debug\LabWorkForms.pdb
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\obj\Debug\LabWorkForms.Form3.resources
+C:\Users\psuur\Documents\IPT\IT 3C\RJNB\LabWorkForms\obj\Debug\LabWorkForms.Form4.resources
